@@ -1,0 +1,13 @@
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\bin\Debug\netcoreapp3.1\BoardR.exe
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\bin\Debug\netcoreapp3.1\BoardR.deps.json
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\bin\Debug\netcoreapp3.1\BoardR.runtimeconfig.json
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\bin\Debug\netcoreapp3.1\BoardR.runtimeconfig.dev.json
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\bin\Debug\netcoreapp3.1\BoardR.dll
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\bin\Debug\netcoreapp3.1\BoardR.pdb
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.csprojAssemblyReference.cache
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.AssemblyInfoInputs.cache
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.AssemblyInfo.cs
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.csproj.CoreCompileInputs.cache
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.dll
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.pdb
+D:\C#\Alpha 31 C#\Core\Hackaton\BoardR - Ahmed\BoardR\obj\Debug\netcoreapp3.1\BoardR.genruntimeconfig.cache

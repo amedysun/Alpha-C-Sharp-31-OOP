@@ -1,0 +1,6 @@
+﻿namespace BoardR
+{
+    class Program
+    {
+    }
+}
